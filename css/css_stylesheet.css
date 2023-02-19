@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>CSS Stylesheet</title>
+
+<style type="text/css">
+<!--
+h1 { font-family: Arial; 
+	 font-size: 20pt; 
+	 color: blue; }
+h2 { font-family: Arial;
+	 font-size: 20pt;
+	 color: blue; }
+p { font-family: Arial;
+	 font-size: 10pt;
+	 color: blue; }
+-->
+background-color: lightblue;
+</style>
+</head>
+
+<body>
+<h1>Music Recommendations</h1>
+<h1>Metal Music Recommendations</h1>
+<h1>Pop Music Recommendations</h1>
+<h1>Rap Music Recommendations</h1>
+<h1>Rock Music Recommendations</h1>
+<h2>These are the genres that I listen to the most along with some albums and artists that I would recommend in those genres</h2>
+<h2>For those of you who crave some rock with a more heavy sounding tune, be sure to give these a listen</h2>
+<h2>Whenever you need a little pick me up for a gloomy day</h2>
+<h2>For those who need a beat, just look into these artists</h2>
+<h2>Get ready for some headbanging and a whole lot of fun</h2>
+<p>Avenged Sevenfold</p>
+<p>Disturbed</p>
+<p>Metallica</p>
+<p>System of a Down</p>
+<p>Beyonce</p>
+<p>Ed Sheeran</p>
+<p>Lady Gaga</p>
+<p>Michael Jackson</p>
+<p>Childish Gambino</p>
+<p>Kanye West</p>
+<p>Post Malone</p>
+<p>The Notorious B.I.G.</p>
+<p>Arctic Monkeys</p>
+<p>Coldplay</p>
+<p>Gorillaz</p>
+<p>The White Stripes</p>
+</body>
+</html>
